@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Chan Alston</h1>
 <h3 align="center">A Frontend Web Developer</h3>
 
-<a href="https://app.daily.dev/Alston_Chan"><img align='right' src="https://api.daily.dev/devcards/59cd104a781443409fc1512de71cf7dd.png?r=e8f" width="400" alt="Alston Chan's Dev Card"/></a>
+<a href="https://app.daily.dev/Alston_Chan"><img align='right' src="./daily.dev.png" width="400" alt="Alston Chan's Dev Card"/></a>
 
 - 🔭 I’m currently working on [netflix-clone](https://github.com/AlstonChan/Netflix-clone)
 
