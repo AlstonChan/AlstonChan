@@ -1,25 +1,22 @@
-<h1 align="center">Hi 👋, I'm Chan Alston</h1>
+# Hi, I'm Alston
 
-<a href="https://app.daily.dev/Alston_Chan" align='right'>
-    <img align='right' src="./Alston_Chan.png" width="400" alt="Alston Chan's Dev Card"/>
-</a>
+I am a self taught full stack developer that primarily code in Javascript _(and Typescript)_. I mainly build websites and have built various website and web application, ranging from simple vanilla JS websites to using modern frontend frameworks such as Next.js and SvelteKit. I also have experience in backend rendering with technologies like Node.js and PHP.
 
-<div align='left'>
-    <h1>💻 Skills </h1>
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML 5">
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS 3">
-    <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="SASS">
-    <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="Javascript">
-    <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node Js">
-    <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" alt="Express Js">
-    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Js">
-    <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
-</div>
+## Experience
 
-# 🌐Contact
+I have experience in [`building websites or web application`] and specialize in using frameworks like _Next.Js_ and _Typescript_. I also [`maintain my own homelab server`] which gives me experience in configuring virtualization platform, using Docker, maintain linux server, etc. I also find the Web3 space interesting, and have build projects related to some popular public blockchain like [`Bitcoin, Ethereum and Base`].
 
-You can reach me through **devalston390@gmail.com**
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)![CSS](https://img.shields.io/badge/CSS-1572b6?&style=for-the-badge&logo=css3&logoColor=white)![SCSS](https://img.shields.io/badge/Scss-CC6699?style=for-the-badge&logo=sass&logoColor=white)![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)![ReactJs](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)![NextJs](https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=fff&style=for-the-badge)![Svelte](https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00)![SvelteKit](https://img.shields.io/badge/SvelteKit-4A4A55?style=for-the-badge&logo=sveltekit&logoColor=FF3E00)![NodeJs](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white)![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
-# 📊GitHub Stats
+## 📊GitHub Stats
 
-<img align='left' src='https://github-readme-stats.vercel.app/api/top-langs/?username=AlstonChan&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact'>
+<table>
+  <tr>
+    <td align="center" style="padding=0;width=50%;">
+      <img align="center" style="padding=0;" src="https://grs.quantumly.dev/api/?username=AlstonChan&show_icons=true&title_color=4F8CC9&text_color=9f9f9f&bg_color=00000000&hide_border=true&icon_color=4F8CC9&hide_title=true&count_private=true" alt="User's stats on GitHub" />
+    </td>
+    <td align="center" style="padding=0;width=50%;">
+      <img align="center" style="padding=0;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlstonChan&layout=compact&show_icons=true&title_color=4F8CC9&text_color=9f9f9f&bg_color=00000000&hide_border=true&icon_color=00000000&count_private=true&extra=skyra-project/acrysel,acrysel-framework,aelia,ai,alestra,archid-components,arkadia,artiel,blog.skyra.pw,char,editable-commands,evlyn,gifenc,iriss,jaro-winkler,memes.skyra.pw,nayre,nekokai,ring,skyra,skyra.pw,teryl,word-match;binarytf/binarytf;discordjs/discord.js;novariableglobal/mood,g.shift,one-thousand-years;sapphiredev/framework,pieces,plugins,shapeshift,type,utilities" alt="Most Used Language" />
+    </td>
+  </tr>
+</table>
